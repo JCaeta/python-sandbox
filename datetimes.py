@@ -10,5 +10,3 @@ datetimes = [
 sorted_datetimes = sorted(datetimes, key=lambda x: (x[:10], x[11:]))
 print(sorted_datetimes)
 
-
-
