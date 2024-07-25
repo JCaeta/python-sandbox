@@ -1,8 +1,9 @@
-my_list = [1, 2, 3, 4, 5]
-last_item = my_list[-1]
-print(last_item)  # Output: 5
+# Creating a list of fruits
+fruits = ["apple", "banana", "cherry", "date"]
 
-my_list = []
-last_item = my_list[-1]
-print(last_item)  # Output: 5
+# Printing the list
+print(fruits)
 
+# Accessing elements in the list
+print(fruits[0])  # Output: apple
+print(fruits[2])  # Output: cherry
